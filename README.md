@@ -1,2 +1,2 @@
-#Instagram Sign-up page UI Clone
-You can see it [here](https://codepen.io/narasimhak453/full/VwpobJM)
+# Instagram Sign-up Page
+You can click [here](https://codepen.io/narasimhak453/full/VwpobJM) to see it.
