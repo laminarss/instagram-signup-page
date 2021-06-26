@@ -80,6 +80,10 @@
    cursor: pointer;
 }
 
+#fb-login:active {
+   opacity: 0.5;  
+}
+
 #or::before {
    content: '';
    position: absolute;
